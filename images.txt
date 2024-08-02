@@ -1,2 +1,2 @@
 #支持私库
-tugraph/tugraph-runtime-centos7:4.3.1
+xprobe/xinference:latest
