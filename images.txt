@@ -1,5 +1,4 @@
 #支持私库
-docker.elastic.co/elasticsearch/elasticsearch
-mysql:5.7.18
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-redis:7.2.4
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.4.11
