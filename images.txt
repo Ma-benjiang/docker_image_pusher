@@ -1,2 +1,2 @@
 #支持私库
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+downloads.unstructured.io/unstructured-io/unstructured:latest
