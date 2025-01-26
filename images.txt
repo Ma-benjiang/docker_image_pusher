@@ -1,2 +1,2 @@
 #支持私库
-downloads.unstructured.io/unstructured-io/unstructured:latest
+redis/redis-stack
