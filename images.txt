@@ -1,2 +1,2 @@
 #支持私库
-redis/redis-stack
+pgvector/pgvector:pg16
